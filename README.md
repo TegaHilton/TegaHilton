@@ -10,7 +10,7 @@ I'm a passionate Engineer / Full-Stack Developer with experience in HTML,CSS,Jav
 - 🔭 Working on: Weather Forecast application.
 - 🌍 Languages: JavaScript, NodeJs, React, PHP, python, Java
 - 📫 How to reach me: Tegahilton@gmail.com/+2348146330337.
-- ⚡ Fun fact: I love to watch movies.
+- ⚡ Fun fact: I love to watch movies and music.
 
 ## My Skills 🧠
 
