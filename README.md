@@ -4,12 +4,12 @@ Hi there, I'm Eziogor Oghenetega Hilton! 👋
 
 ## About Me 🚀
 
-I'm a passionate Engineer / Full-Stack Developer with experience in HTML,CSS,JavaScript and NodeJs. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Engineer / Frontend Developer with experience in HTML,CSS,JavaScript and React. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Java, and TypeScript.
-- 🔭 Working on: Weather Forecast application.
-- 🌍 Languages: JavaScript, NodeJs, React, PHP, python, Java, c.
-- 📫 How to reach me: Tegahilton@gmail.com/+2348146330337.
+- 🌱 Currently learnin: NodeJs.
+- 🔭 Working on: Weather Forecast application,Real estate websites and Food delivery service website.
+- 🌍 Languages: JavaScript, React.
+- 📫 How to reach me: hiltonsmart1@gmail.com/+2348146330337.
 - ⚡ Fun fact: I love to watch movies and music.
 
 ## My Skills 🧠
