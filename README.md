@@ -39,6 +39,6 @@ I'm a passionate Engineer / Frontend Developer with experience in HTML, CSS, Jav
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website]**(https://tegaportfolio.onrender.com/)
 - **[LinkedIn]**(https://www.linkedin.com/in/eziogor-oghenetega-bb5955217/)
 - **[Twitter]**(https://x.com/TegaHilton)
