@@ -4,13 +4,13 @@ Hi there, I'm Eziogor Oghenetega Hilton! 👋
 
 ## About Me 🚀
 
-I'm a passionate Engineer / Frontend Developer with experience in HTML,CSS,JavaScript and React. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Engineer / Frontend Developer with experience in HTML, CSS, JavaScript, and React. I loves tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learnin: NodeJs.
-- 🔭 Working on: Weather Forecast application,Real estate websites and Food delivery service website.
-- 🌍 Languages: JavaScript, React.
-- 📫 How to reach me: hiltonsmart1@gmail.com/+2348146330337.
-- ⚡ Fun fact: I love to watch movies and music.
+🌱 Currently learning: Node.js
+🔭 Projects built: Portfolio website, Ecommerce website (Furniro), Job portal website, Food delivery website, Weather Forecast application, Real estate websites, and Kodijobs project
+🌍 Languages: JavaScript, React
+📫 How to reach me: hiltonsmart1@gmail.com / +2348146330337
+⚡ Fun fact: I love to watch movies and listen to music.
 
 ## My Skills 🧠
 
@@ -18,6 +18,7 @@ I'm a passionate Engineer / Frontend Developer with experience in HTML,CSS,JavaS
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
